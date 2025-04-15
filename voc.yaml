@@ -1,7 +1,7 @@
-path: C:\Users\Spark\Desktop\vision\Demo4\dataset\output
-train: images
-val: images
-test: images
+path: C:\Users\Spark\Desktop\vision\Demo4\VOC-VOLO-V8\dataset\output
+train: images/train
+val: images/train
+test: images/test
 names:
   0: aeroplane
   1: bicycle
