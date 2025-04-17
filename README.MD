@@ -3,7 +3,11 @@
 ![GitHub](https://img.shields.io/github/license/your-username/VOC-VOLO-V8)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/VOC-VOLO-V8)
 ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/VOC-VOLO-V8)
-
+![预测图片](predict/009564.jpg)
+<video controls width="100%">
+  <source src="predict/pred2.mp4" type="video/mp4">
+  你的浏览器不支持视频标签。
+</video>
 ## 项目简介
 
 **VOC-VOLO-V8** 是一个基于 YOLO V8 对VOC 2007的目标检测项目，专注于 PASCAL VOC 2007 数据集的处理、训练和预测。该项目通过将 PASCAL VOC 2007 数据集转换为 YOLO 格式，并利用 YOLO V8 模型进行训练，实现了高效的目标检测任务。
