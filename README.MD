@@ -4,7 +4,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/VOC-VOLO-V8)
 ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/VOC-VOLO-V8)
 ![预测图片](predict/009564.jpg)
-点击查看[预测视频](predict/pred2.mp4)
 
 ## 项目简介
 
